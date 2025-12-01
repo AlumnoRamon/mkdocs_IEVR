@@ -1,0 +1,14 @@
+site_name: Inazuma Eleven Heroes Victory Road Documentación
+
+nav:
+  - Inicio: index.md
+  - About: about.md
+
+theme:
+  name: material
+  language: es
+  palette:
+    primary: blue
+    accent: amber
+  font:
+    code: Roboto
